@@ -4,6 +4,8 @@ This is the first release and in early stage. Based on Twitter Bootstrap 3.0.0
 
 To get started with Bootstrap 3, check out [http://getbootstrap.com](http://getbootstrap.com)!
 
+By [upplex](http://upplex.de)
+
 ## Quick start
 
 Copy the Folder in your Wordpress theme folder and enable it. 
