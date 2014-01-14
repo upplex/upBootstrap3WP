@@ -3,7 +3,7 @@
  * The template for displaying search forms in upBootWP
  *
  * @author Matthias Thom | http://upplex.de
- * @package upBootWP 0.1
+ * @package upBootWP 1.1
  */
 ?>
 <form role="search" method="get" class="search-form form-inline" action="<?php echo esc_url( home_url( '/' ) ); ?>">

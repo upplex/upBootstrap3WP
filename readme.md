@@ -1,6 +1,6 @@
-# [BootstrapWP - Wordpress Theme Framework v0.1 ](http://upplex.de/bootstrap-3-wordpress-theme-framework/)
+# [BootstrapWP - Wordpress Theme Framework v1.1 ](http://upplex.de/bootstrap-3-wordpress-theme-framework/)
 
-This is the first release and in early stage. Based on Twitter Bootstrap 3.0.0
+Based on Twitter Bootstrap 3.0.3
 
 To get started with Bootstrap 3, check out [http://getbootstrap.com](http://getbootstrap.com)!
 
@@ -8,7 +8,7 @@ By [upplex - webdesign](http://upplex.de)
 
 ## Quick start
 
-Copy the Folder in your Wordpress theme folder and enable it. 
+Copy the Folder in your Wordpress theme folder and enable it on the theme page. 
 
 ## Bugs and feature requests
 
@@ -20,4 +20,4 @@ Submit your pull request and I will check it.
 
 ## Copyright and license
 
-Copyright 2013 upplex under GPL 3.0(LICENSE)
+Copyright 2014 upplex under GPL 3.0(LICENSE)

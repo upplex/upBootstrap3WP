@@ -5,7 +5,7 @@
  * Contains the closing of the id=main div and all content after
  *
  * @author Matthias Thom | http://upplex.de
- * @package upBootWP 0.1
+ * @package upBootWP 1.1
  */
 ?>
 

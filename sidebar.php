@@ -3,7 +3,7 @@
  * The Sidebar containing the main widget areas.
  *
  * @author Matthias Thom | http://upplex.de
- * @package upBootWP 0.1
+ * @package upBootWP 1.1
  */
 ?>
 	<div id="secondary" class="widget-area well well-sm" role="complementary">

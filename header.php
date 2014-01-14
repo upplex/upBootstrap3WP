@@ -5,7 +5,7 @@
  * Displays all of the <head> section and everything up till <main id="main">
  *
  * @author Matthias Thom | http://upplex.de
- * @package upBootWP 0.1
+ * @package upBootWP 1.1
  */
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>

@@ -4,7 +4,7 @@
  * The template used for displaying page content in page.php
  *
  * @author Matthias Thom | http://upplex.de
- * @package upBootWP 0.1
+ * @package upBootWP 1.1
  */
 get_header(); ?>
 	<div class="container">
