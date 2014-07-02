@@ -39,9 +39,10 @@ class Upbootwp_Walker_Nav_Menu extends Walker_Nav_Menu {
      * @access public
      * @param mixed &$output
      * @param mixed $depth
+     * @param array $args (default: array())
      * @return void
      */
-    function start_lvl( &$output, $depth ) {
+    function start_lvl( &$output, $depth = 0, $args = array() ) {
 
 		$indent = str_repeat( "\t", $depth );
 		$output	   .= "\n$indent<ul class=\"dropdown-menu\">\n";
